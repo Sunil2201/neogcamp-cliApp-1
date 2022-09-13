@@ -1,2 +1,3 @@
-# neogcamp-cliapp-1
-How well do you know me? This is a CLI app and it is part of neogcamp : levelzero  
+# How well do you know me?
+This repository is part of neogcamp : levelzero
+This is a quiz app based upon my life. It contains five questions and correct answer will earn you one point. So, lets see how much you can score :)  
